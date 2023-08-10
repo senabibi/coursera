@@ -1,0 +1,53 @@
+/* Reset styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* General styles */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #eea9cb;
+    color: #333;
+  }
+  
+  header {
+    text-align:center;
+    padding: 20px;
+  }
+  
+  .sections-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .section {
+    flex: 1;
+    border: 1px solid #000;
+    background-color: #e3679f;
+    margin: 10px;
+    padding: 20px;
+    position: relative;
+  }
+  
+  .section-title {
+    background-color: #ae246e; /* Açık pembe renk */
+    color: #fff;
+    padding: 5px 10px;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  
+  /* Media queries for responsive layout */
+  @media (max-width: 767px) {
+    .section {
+      flex: 1 1 100%;
+    }
+  }
+  
