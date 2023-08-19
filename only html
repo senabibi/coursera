@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>NURSENA BİTİRGEN's Portfolio</title>
+    <title>NURSENA BITIRGEN's Portfolio</title>
     <style>
         body {
             
@@ -12,7 +12,7 @@
 </head>
 <body>
     <header>
-        <h1>NURSENA BİTİRGEN</h1>
+        <h1>NURSENA BITIRGEN</h1>
     </header>
     
     <nav>
@@ -28,9 +28,9 @@
         <h2>Favorite Foods</h2>
         <ul>
             <li>Kebap</li>
-            <li>Mantı</li>
+            <li>Manti</li>
             <li>Baklava</li>
-            <li>Şavarma</li>
+            <li>Savarma</li>
         </ul>
     </section>
     
